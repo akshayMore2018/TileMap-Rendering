@@ -20,3 +20,8 @@ These are the IDs that corresponds to the texture regions on the tileSheet.<br /
 
 Output:<br />
 ![output](tiledWorld.png)
+
+
+
+
+P.S:I do NOT own the tileSheet image used in this example. All rights belong to it's rightful owner/owner's. No copyright infringement intended. 
