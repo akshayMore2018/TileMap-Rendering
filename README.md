@@ -1,2 +1,2 @@
 # TileMap-Rendering
-Rendering a tiled world from a mapFile and a tileset. 
+Rendering a tiled world from a mapfile and a tileset. 
