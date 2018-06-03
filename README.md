@@ -1,11 +1,11 @@
 # TileMap-Rendering
 Rendering a tiled world from a mapfile and a tileset. 
 
-##The tilesheet:<br />
+## The tilesheet:<br />
 ![tileset](tilemap.png)
 
 
-##The mapfile:<br />
+## The mapfile:<br />
 ```
 These are the IDs that corresponds to the texture regions on the tileSheet.<br />
 ```
@@ -20,7 +20,7 @@ These are the IDs that corresponds to the texture regions on the tileSheet.<br /
 104,105,106,107,108,109,110,111,112,113,114,115,116<br />
 
 
-##Output:<br />
+## Output:<br />
 ![output](tiledWorld.png)
 
 
