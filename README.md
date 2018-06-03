@@ -24,4 +24,4 @@ Output:<br />
 
 
 
-P.S:I do NOT own the tileSheet image used in this example. All rights belong to it's rightful owner/owner's. No copyright infringement intended. 
+Also, I do NOT own the tileSheet image used in this example. All rights belong to it's rightful owner/owner's. No copyright infringement intended. 
